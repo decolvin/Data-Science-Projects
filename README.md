@@ -1,7 +1,7 @@
 # Data-Science-Projects
 Past projects which showcase my experience in Predictive Analytics and Machine Learning using R and Python
 
-# Installation
+# General Installation
 ## Download the data
 
 - Clone this repo to your computer.
@@ -18,6 +18,6 @@ Past projects which showcase my experience in Predictive Analytics and Machine L
 
 ## Install the requirements
 
-    Install the requirements using pip install -r requirements.txt.
-        Make sure you use Python 2.7.
-        You may want to use a virtual environment for this.
+- Install the requirements using pip install -r requirements.txt.
+  - Make sure you use Python 2.7.
+  - You may want to use a virtual environment for this.
