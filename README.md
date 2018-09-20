@@ -10,7 +10,7 @@ This is an example of my main role at the Energy Conservation Office. Engineers 
 ## Predicting restaurant visitors in Japan
 The capstone project for my graduate program was to solve a practical business problem to completion. My teams project was to help new and existing restaurant owners by creating a tool for them to predict restaurant visitors based on time, genre, or location. Various machine learning models were used for this project using R including XGBoost (the final model). In addition, a Tableau dashboard was created and a web-based application.
 
-## Machine learning for predicting chilled water demand
+## Predicting chilled water demand for more efficient operation
 This project developed a predictive model to predict how much cooling is needed for the entire UC Davis campus. By predicting chilled water demand, central heating and cooling plant operators can allocate the proper amount of resources to produce the cooling energy instead of the traditional method of using the same amount of resources every day regardless of demand. Regression, tree methods, support vector regression, and deep learning neural networks are explored. 
 
 ## Targeted marketing to increase profits
