@@ -6,6 +6,7 @@ Read below for a short description of each project. Then, select the Jupyter Not
 
 #### Energy Savings Measurement and Verification
 This is an example of my main role at the Energy Conservation Office. Engineers in the office identify and fix inefficiencies related to the heating, ventilation, and air conditioning (HVAC) systems in campus buildings at UC Davis. Using multiple linear regression, I then create a descriptive model of energy use before a project is initiated. The model is applied to the post-project time period to represent how much energy would have been used and is compared to real data to quantify energy savings.
+- Models used: Multiple Linear Regression
 
 #### Predicting restaurant visitors in Japan
 The capstone project for my graduate program was to solve a practical business problem to completion. My teams project was to help new and existing restaurant owners by creating a tool for them to predict restaurant visitors based on time, genre, or location. Various machine learning models were used for this project using R including XGBoost (the final model). In addition, a Tableau dashboard was created and a web-based application.
