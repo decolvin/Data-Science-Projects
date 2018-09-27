@@ -12,8 +12,8 @@ This is an example of my main role at the Energy Conservation Office. Engineers 
 The capstone project for my graduate program was to solve a practical business problem to completion. My teams project was to help new and existing restaurant owners by creating a tool for them to predict restaurant visitors based on time, genre, or location. Various machine learning models were used for this project using R including XGBoost (the final model). In addition, a Tableau dashboard was created and a web-based application.
 - Models used: **Multiple Linear Regression, ARIMA, Neural Network Auto-Regression, k-Means, XGBoost**
 
-#### Predicting chilled water demand for more efficient operation
-This project developed a predictive model to predict how much cooling is needed for the entire UC Davis campus. By predicting chilled water demand, central heating and cooling plant operators can allocate the proper amount of resources to produce the cooling energy instead of the traditional method of using the same amount of resources every day regardless of demand. Regression, tree methods, support vector regression, and deep learning neural networks are explored. 
+#### Predicting chilled water deltaT for more efficient operation
+This project developed a predictive model to predict the difference in supply and return temperatures for the UC Davis district chilled water system. By predicting chilled water deltaT, central heating and cooling plant operators can allocate the proper amount of resources to produce the cooling energy instead of the traditional method of using the same amount of resources every day regardless of actual campus demand. 
 - Models used: **Multiple Linear Regression, H2O, LightGBM, XGBoost, Random Forest, Support Vector Regression, Neural Network, Keras Deep Learning LSTM**
 
 #### Targeted marketing to increase profits
