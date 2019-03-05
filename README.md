@@ -19,7 +19,3 @@ This project developed a predictive model to predict the difference in supply an
 #### Targeted marketing to increase profits
 Instead of sending a pamphlet to all potential donors, this project explored targeting specific groups who were most likely to donate to a given organization. Given a dataset of historical donations and census data, various machine learning classification models were explored to predict the likelihood of a donation. Then, machine learning regression models were created to predict how much profit would be made from those groups expected to donate. The folder contains the final report from the project, screenshots of both the classification and regression model comparison, and R code used for the project.
 - Models explored to solve business problem: **Logistic Regression, Linear and Quadratic Discriminant Analysis, k-Means, Bagging Ensemble, Random Forest, Gradient Boosting Ensemble, Support Vector Machine, Multiple Linear Regression, Lasso Regression**
-
-#### Credit Fraud Detection
-This is a simple example of predicting if a single transaction is fraudulent and using this information to predict how much money is lost from a fraudulent transaction. Data was acquired from Kaggle.
-- Models explored to solve business problem: **Logistic Regression, Support Vector Classification, LightGBM, Multiple Linear Regression, Support Vector Regression**
